@@ -29,4 +29,4 @@
   </tr>
 </table>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default)](https://github.com/ASamad73)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default" alt="GitHub Contribution Graph"/>
