@@ -12,6 +12,22 @@
 4. Neural Network Optimization  
 </pre>
 <p>📧 Contact: <a href="mailto:26100314@lums.edu.pk">26100314@lums.edu.pk</a> / <a href="mailto:junaid.abdulsamad@gmail.com">junaid.abdulsamad@gmail.com</a></p>
+<br/><br/>
+
+<div align="center">
+
+## 📊 GitHub Stats & Contributions
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=default)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ASamad73&theme=default&hide_border=false)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ASamad73&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=false)](https://github.com/ASamad73)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ASamad73&color=blue)
+
+</div>
+
 
 <!--
 **ASamad73/ASamad73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
