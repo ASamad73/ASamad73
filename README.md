@@ -3,6 +3,7 @@
   <h1>Abdul Samad</h1>
 </div>
 <hr/>
+
 <h>🤝 I’m looking to collaborate on: </h>
 <br/><br/>
 <pre>
@@ -11,35 +12,21 @@
 3. MERN-stack Applications 
 4. Neural Network Optimization  
 </pre>
+
 <p>📧 Contact: <a href="mailto:26100314@lums.edu.pk">26100314@lums.edu.pk</a> / <a href="mailto:junaid.abdulsamad@gmail.com">junaid.abdulsamad@gmail.com</a></p>
 <br/><br/>
 
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ASamad73&color=blue" alt="Visitor Count"/>  
+  <img src="https://img.shields.io/badge/Commit%20Activity-0/month-blue" alt="Commit Activity"/>  
+  <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical" alt="Last Commit"/>
+</p>
 
-## 📊 GitHub Stats & Contributions
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=default" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=ASamad73&theme=default&hide_border=false" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=default)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ASamad73&theme=default&hide_border=false)](https://git.io/streak-stats)
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ASamad73&bg_color=ffffff&color=000000&line=007acc&point=000000&area=true&hide_border=false)](https://github.com/ASamad73)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ASamad73&color=blue)
-
-</div>
-
-
-<!--
-**ASamad73/ASamad73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default)](https://github.com/ASamad73)
