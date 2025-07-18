@@ -1,7 +1,7 @@
 <img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="width: 100%; height: 400px;">
+<h1 style="text-align:center">Abdul Samad</h1>
+<hr/>
 
-
-## Hi there 👋
 
 <!--
 **ASamad73/ASamad73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
