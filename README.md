@@ -1,4 +1,4 @@
-<img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" width="300" alt="GIF">
+<img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="width: 100%; height: 250px; object-fit: cover;">
 
 
 ## Hi there 👋
