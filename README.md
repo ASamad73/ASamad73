@@ -3,7 +3,14 @@
   <h1>Abdul Samad</h1>
 </div>
 <hr/>
-<pre> ```text 🤝 I’m looking to collaborate on: 1. Generative AI Applications 2. Deep Learning Research 3. MERN-stack Applications 4. Neural Network Optimization  📧 Contact: 26100314@lums.edu.pk / junaid.abdulsamad@gmail.com ``` </pre>
+<h>🤝 I’m looking to collaborate on: </h>
+<pre>
+1. Generative AI Applications 
+2. Deep Learning Research 
+3. MERN-stack Applications 
+4. Neural Network Optimization  
+</pre>
+<p>📧 Contact: <a href="26100314@lums.edu.pk"/> / <a href="junaid.abdulsamad@gmail.com"/> </p>
 
 <!--
 **ASamad73/ASamad73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
