@@ -5,7 +5,7 @@
 <hr/>
 
 <h>🤝 I’m looking to collaborate on: </h>
-<br/><br/>
+<br/>
 <pre>
 1. Generative AI Applications 
 2. Deep Learning Research 
