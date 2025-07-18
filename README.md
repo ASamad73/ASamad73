@@ -1,3 +1,6 @@
+<img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" width="300" alt="GIF">
+
+
 ## Hi there 👋
 
 <!--
