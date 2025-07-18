@@ -1,7 +1,9 @@
 <img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="width: 100%; height: 400px;">
-<h1 style="text-align:center">Abdul Samad</h1>
+<div align="center">
+  <h1>Abdul Samad</h1>
+</div>
 <hr/>
-
+<pre> ```text 🤝 I’m looking to collaborate on: 1. Generative AI Applications 2. Deep Learning Research 3. MERN-stack Applications 4. Neural Network Optimization  📧 Contact: 26100314@lums.edu.pk / junaid.abdulsamad@gmail.com ``` </pre>
 
 <!--
 **ASamad73/ASamad73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
