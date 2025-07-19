@@ -86,11 +86,11 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
 </div>
+<br/>
 
 <div align="center">
-  <h5>Machine Learning/Deep Learning</h5>
+  <h4>Machine Learning/Deep Learning</h4>
 </div>
-<br/>
 
 <table align="center">
   <tr>
@@ -108,11 +108,11 @@
     </td>
   </tr>
 </table>
+<br/>
 
 <div align="center">
-  <h5>Generative AI</h5>
+  <h4>Generative AI</h4>
 </div>
-<br/>
 
 <table align="center">
   <tr>
@@ -124,6 +124,31 @@
     </td>
   </tr>
 </table>
+<br/>
 
+<div align="center">
+  <h4>Software Engineering</h4>
+</div>
+
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <a href="https://github.com/ASamad73/CulinaryCloud" target="_blank">
+        CulinaryCloud
+      </a>
+      <p>A MERN-based recipe-sharing platform with social features, filters, and AI-powered recommendations.</p>
+    </td>
+    <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Darbaar" target="_blank">
+        DARBAAR
+      </a>
+      <p>An online multiplayer role-based guessing game - featuring friend lobbies, strategic voting, and real-time Socket.IO gameplay.</p>
+    </td>
+  </tr>
+</table>
+
+<hr/>
+***Building systems that learn means building systems that change — and that’s the real challenge.***
+<hr/>
 
 
