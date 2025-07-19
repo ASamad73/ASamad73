@@ -9,24 +9,25 @@
 <pre>
 1. Generative AI Applications 
 2. Deep Learning Research 
-3. MERN-stack Applications 
+3. MERN-Stack Applications 
 4. Neural Network Optimization  
 </pre>
 
 <p>📧 Contact: <a href="mailto:26100314@lums.edu.pk">26100314@lums.edu.pk</a> / <a href="mailto:junaid.abdulsamad@gmail.com">junaid.abdulsamad@gmail.com</a></p>
 <br/><br/>
 
+<div align="center" style="background-color:#f0f0f0; padding:10px; border-radius:10px;">
+  <img src="https://komarev.com/ghpvc/?username=ASamad73&color=blue&style=flat-square" alt="Visitor Count"/>  
+  <img src="https://img.shields.io/badge/Commit%20Activity-0/month-blue?style=flat-square" alt="Commit Activity"/>  
+  <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical?style=flat-square" alt="Last Commit"/>
+</div>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASamad73&color=blue" alt="Visitor Count"/>  
-  <img src="https://img.shields.io/badge/Commit%20Activity-0/month-blue" alt="Commit Activity"/>  
-  <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical" alt="Last Commit"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=gotham" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ASamad73&theme=gotham&hide_border=false" alt="GitHub Streak" />
 </p>
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=default" alt="GitHub Stats" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=ASamad73&theme=default&hide_border=false" alt="GitHub Streak" /></td>
-  </tr>
-</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default" alt="GitHub Contribution Graph"/>
