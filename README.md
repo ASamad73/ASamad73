@@ -76,6 +76,7 @@
   <img src="https://img.shields.io/badge/Matplotlib-20BEFF?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-F9AB00?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>&nbsp;
   <img src="https://img.shields.io/badge/Hugging%20Face-013243?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>&nbsp;
+  <br/><br/>
   <img src="https://img.shields.io/badge/Roboflow-11557C?style=for-the-badge&logoColor=white" alt="Roboflow"/>&nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-FFCA28?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"/>
@@ -85,10 +86,9 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
 </div>
-<br/>
 
 <div align="center">
-  <h3>Machine Learning/Deep Learning</h3>
+  <h5>Machine Learning/Deep Learning</h5>
 </div>
 <br/>
 
