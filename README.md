@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical?style=flat-square" alt="Last Commit"/>
 </div>
 <br/>
+
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
@@ -29,8 +30,13 @@
   </tr>
 </table>
 
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASamad73&theme=tokyonight" />
+</p>
+
+<h3>🛠️ Languages & Tools</h3>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <br/>Python
 </p>
 
