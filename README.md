@@ -94,13 +94,13 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="400">
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/Early-Forest-Fire-Detection" target="_blank">
         Early Forest Fire Detection
       </a>
-      <p>Detection and Classification using CLIP and YOLOv8s</p>
+      <p>Fusion of CLIP and YOLOv8s for visual-semantic forest fire detection</p>
     </td>
-    <td align="center" width="400">
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/VAEs-And-GANs" target="_blank">
         Disentangled Generative Models
       </a>
@@ -108,12 +108,14 @@
     </td>
   </tr>
   <tr>
-     <td align="center" width="400">
+    <td></td>
+     <td align="center" width="500">
       <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
-        Urdu News Classification
+        Urdu News Articles Classification
       </a>
-      <p>Classification of Web-Scraped Urdu News Articles into five categories</p>
+      <p>Classification of web-scraped urdu News articles into five categories</p>
     </td>
+    <td></td>
   </tr>
 </table>
 
