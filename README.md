@@ -35,9 +35,30 @@
 </p>
 
 <h3>🛠️ Languages & Tools</h3>
-<!-- ## 🛠️ Languages and Tools -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,nodejs,express,mongodb,mysql,pytorch,tensorflow,git,github,figma,docker,netlify,vercel,vscode" />
+</p>  -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=firgma" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
 </p>
 
 
