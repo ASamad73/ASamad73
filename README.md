@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Commit%20Activity-0/month-blue?style=flat-square" alt="Commit Activity"/>  
   <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical?style=flat-square" alt="Last Commit"/>
 </div>
-
+<br/>
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
@@ -30,4 +30,6 @@
 </table>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default" alt="GitHub Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=tokyonight&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
