@@ -34,7 +34,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ASamad73&theme=tokyonight" />
 </p>
 
-<h3>🛠️ Languages & Tools</h3>
+<div align="center">
+  <h3>🛠️ Languages & Tools</h3>
+</div>
+<br/>
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,nodejs,express,mongodb,mysql,pytorch,tensorflow,git,github,figma,docker,netlify,vercel,vscode" />
 </p>  -->
@@ -57,11 +60,12 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />&nbsp;
+  <br/>
   <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
 </p>
-
+<br/>
 <!-- Badges Section -->
 <p align="center">
   <img src="https://img.shields.io/badge/Transformers-4285F4?style=for-the-badge&logo=transformers&logoColor=white" alt="Transformers"/>&nbsp;
