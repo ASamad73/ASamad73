@@ -60,7 +60,7 @@
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />&nbsp;
-  <br/>
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
@@ -80,7 +80,17 @@
   <img src="https://img.shields.io/badge/Google%20Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-FFCA28?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"/>
 </p>
+<hr>
 
+<div align="center">
+  <h3>🚀 Featured Projects</h3>
+</div>
+<br/>
+
+<div align="center">
+  <h3>Machine Learning/Deep Learning</h3>
+</div>
+<br/>
 
 
 
