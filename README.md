@@ -24,8 +24,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=cobalt" alt="GitHub Stats" /></td>
-    <td><img src="https://streak-stats.demolab.com?user=ASamad73&theme=cobalt&hide_border=false" alt="GitHub Streak" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=ASamad73&theme=tokyonight&hide_border=false" alt="GitHub Streak" /></td>
   </tr>
 </table>
 
