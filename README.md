@@ -58,9 +58,9 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />&nbsp;
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
@@ -75,8 +75,8 @@
   <img src="https://img.shields.io/badge/Pandas-76B900?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-20BEFF?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>&nbsp;
   <img src="https://img.shields.io/badge/Seaborn-F9AB00?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>&nbsp;
-  <img src="https://img.shields.io/badge/Hugging%20Face-013243?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>&nbsp;
   <br/><br/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-013243?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>&nbsp;
   <img src="https://img.shields.io/badge/Roboflow-11557C?style=for-the-badge&logoColor=white" alt="Roboflow"/>&nbsp;
   <img src="https://img.shields.io/badge/Google%20Colab-0A0A0A?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>&nbsp;
   <img src="https://img.shields.io/badge/Kaggle-FFCA28?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"/>
@@ -92,6 +92,24 @@
 </div>
 <br/>
 
+## 🛠️ My Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/ASamad73/Early-Forest-Fire-Detection" target="_blank">
+        Early Forest Fire Detection
+      </a>
+      <p>Detection and Classification using CLIP and YOLOv8s</p>
+    </td>
+    <td align="center" width="300">
+      <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
+        Urdu News Classification
+      </a>
+      <p>Classification of Web-Scraped Urdu News Articles into five categories</p>
+    </td>
+  </tr>
+</table>
 
 
 
