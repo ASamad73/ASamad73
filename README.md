@@ -22,12 +22,12 @@
   <img src="https://img.shields.io/badge/Last%20Commit-July%202025-critical?style=flat-square" alt="Last Commit"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=gotham" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ASamad73&theme=gotham&hide_border=false" alt="GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=ASamad73&show_icons=true&theme=cobalt" alt="GitHub Stats" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=ASamad73&theme=cobalt&hide_border=false" alt="GitHub Streak" /></td>
+  </tr>
+</table>
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASamad73&theme=default" alt="GitHub Contribution Graph"/>
