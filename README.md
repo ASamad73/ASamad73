@@ -39,27 +39,42 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,react,nodejs,express,mongodb,mysql,pytorch,tensorflow,git,github,figma,docker,netlify,vercel,vscode" />
 </p>  -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=firgma" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=c" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=firgma" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:20px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:20px;" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge&logo=transformers&logoColor=black" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FCC624?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/Roboflow-0A0A0A?style=for-the-badge&logoColor=white" alt="Roboflow"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+</p>
+
 
 
 
