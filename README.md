@@ -107,18 +107,23 @@
       <p>Disentangled representation using VAEs and Latent space interpolation using GANs</p>
     </td>
   </tr>
-  <tr>
-    <td></td>
-     <td align="center" width="500">
-      <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
-        Urdu News Articles Classification
-      </a>
-      <p>Classification of web-scraped urdu News articles into five categories</p>
-    </td>
-    <td></td>
-  </tr>
 </table>
 
+<div align="center">
+  <h5>Generative AI</h5>
+</div>
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Direct-Preference-Optimization" target="_blank">
+        Direct Preference Optimization
+      </a>
+      <p>Improving SmolLM’s alignment with human preferences through DPO fine-tuning</p>
+    </td>
+  </tr>
+</table>
 
 
 
