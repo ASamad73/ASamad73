@@ -86,7 +86,6 @@
 <div align="center">
   <h3>🚀 Featured Projects</h3>
 </div>
-<br/>
 
 <div align="center">
   <h4>Machine Learning/Deep Learning</h4>
@@ -108,7 +107,6 @@
     </td>
   </tr>
 </table>
-<br/>
 
 <div align="center">
   <h4>Generative AI</h4>
@@ -124,7 +122,6 @@
     </td>
   </tr>
 </table>
-<br/>
 
 <div align="center">
   <h4>Software Engineering</h4>
@@ -148,7 +145,5 @@
 </table>
 
 <hr/>
-***Building systems that learn means building systems that change — and that’s the real challenge.***
+<p><b><i>Building systems that learn means building systems that change — and that’s the real challenge.</i></b></p>
 <hr/>
-
-
