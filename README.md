@@ -92,17 +92,23 @@
 </div>
 <br/>
 
-## 🛠️ My Projects
-
 <table align="center">
   <tr>
-    <td align="center" width="300">
+    <td align="center" width="400">
       <a href="https://github.com/ASamad73/Early-Forest-Fire-Detection" target="_blank">
         Early Forest Fire Detection
       </a>
       <p>Detection and Classification using CLIP and YOLOv8s</p>
     </td>
-    <td align="center" width="300">
+    <td align="center" width="400">
+      <a href="https://github.com/ASamad73/VAEs-And-GANs" target="_blank">
+        Disentangled Generative Models
+      </a>
+      <p>Disentangled representation using VAEs and Latent space interpolation using GANs</p>
+    </td>
+  </tr>
+  <tr>
+     <td align="center" width="400">
       <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
         Urdu News Classification
       </a>
