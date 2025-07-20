@@ -1,4 +1,7 @@
-<img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="width: 100%; height: 400px;">
+<p align="center">
+  <img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="max-width: 100%; width: 700px;">
+</p>
+
 <div align="center">
   <h1>Abdul Samad</h1>
 </div>
