@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="max-width: 100%; width: 700px;">
+  <img src="https://github.com/ASamad73/ASamad73/blob/main/coding-mario.gif" alt="GIF" style="max-width: 100%; width: 900px;">
 </p>
 
 <div align="center">
