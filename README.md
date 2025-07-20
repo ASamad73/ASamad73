@@ -5,7 +5,7 @@
 <div align="center">
   <h1>Abdul Samad</h1>
 </div>
-<hr/>
+<!-- <hr/> -->
 
 <h>🤝 I’m looking to collaborate on: </h>
 <br/>
