@@ -103,26 +103,11 @@
       <p>Fusion of CLIP and YOLOv8s for visual-semantic forest fire detection</p>
     </td>
     <td align="center" width="500">
-      <a href="https://github.com/ASamad73/VAEs-And-GANs" target="_blank">
-        Disentangled Generative Models
+      <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
+        Urdu News Classification
       </a>
-      <p>Disentangled representation using VAEs and Latent space interpolation using GANs</p>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <h4>Generative AI</h4>
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="500">
-      <a href="https://github.com/ASamad73/Direct-Preference-Optimization" target="_blank">
-        Direct Preference Optimization
-      </a>
-      <p>Improving SmolLM’s alignment with human preferences through DPO fine-tuning</p>
-    </td>
+      <p>Machine learning-based classification of Urdu news articles into multiple categories using NLP techniques</p>
+  </td>
   </tr>
 </table>
 
