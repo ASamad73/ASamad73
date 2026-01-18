@@ -97,6 +97,20 @@
 <table align="center">
   <tr>
     <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Federated-Perturbed-Annealing-Conflict-Elimination" target="_blank">
+        Federated Perturbed Annealing And Conflict Elimination
+      </a>
+      <p>A 3-stage FL framework using Gradient-Guided Annealing and Sign-based Conflict Elimination to optimize domain generalization on Non-IID data</p>
+    </td>
+    <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Strategic-LLM-Alignment-Analysis" target="_blank">
+        LLM Decoding Dynamics & DPO
+      </a>
+      <p>Benchmarking Top-P/K and Beam Search strategies to analyze diversity-quality trade-offs, combined with DPO alignment using LoRA adapters</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/Early-Forest-Fire-Detection" target="_blank">
         Early Forest Fire Detection
       </a>
@@ -107,7 +121,7 @@
         Urdu News Classification
       </a>
       <p>Machine learning-based classification of Urdu news articles into multiple categories using NLP techniques</p>
-  </td>
+    </td>
   </tr>
 </table>
 
