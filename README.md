@@ -91,7 +91,7 @@
 </div>
 
 <div align="center">
-  <h4>Machine Learning/Deep Learning</h4>
+  <h4>Machine Learning</h4>
 </div>
 
 <table align="center">
@@ -111,16 +111,16 @@
   </tr>
   <tr>
     <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Vision-Language-Domain-Generality" target="_blank">
+        VL-Generalization: Robust DA/DG via Invariant Learning
+      </a>
+      <p>DA and DG through distribution alignment, invariant learning (IRM/SAM), and prompt-based stability analysis in Vision-Language models (CLIP).</p>
+    </td>
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/Early-Forest-Fire-Detection" target="_blank">
         Early Forest Fire Detection
       </a>
       <p>Fusion of CLIP and YOLOv8s for visual-semantic forest fire detection</p>
-    </td>
-    <td align="center" width="500">
-      <a href="https://github.com/ASamad73/Urdu_News_Classification-ML" target="_blank">
-        Urdu News Classification
-      </a>
-      <p>Machine learning-based classification of Urdu news articles into multiple categories using NLP techniques</p>
     </td>
   </tr>
 </table>
