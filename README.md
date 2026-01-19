@@ -61,9 +61,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:10px;" />&nbsp;
+  <br/><br/>
   <img src="https://skillicons.dev/icons?i=sklearn" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />&nbsp;
-  <br/><br/>
   <img src="https://skillicons.dev/icons?i=anaconda" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
