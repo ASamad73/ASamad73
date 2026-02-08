@@ -10,10 +10,10 @@
 <h>🤝 I’m looking to collaborate on: </h>
 <br/>
 <pre>
-1. Generative AI Applications 
-2. Deep Learning Research 
-3. MERN-Stack Applications 
-4. Neural Network Optimization  
+1. Distributed Learning Research 
+2. Large Language Model Systems
+3. AI-Integrated Web Applications
+4. Efficient Model Optimization
 </pre>
 
 <p>📧 Contact: <a href="mailto:26100314@lums.edu.pk">26100314@lums.edu.pk</a> / <a href="mailto:junaid.abdulsamad@gmail.com">junaid.abdulsamad@gmail.com</a></p>
@@ -61,8 +61,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:10px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />&nbsp;
   <br/><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=anaconda" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
