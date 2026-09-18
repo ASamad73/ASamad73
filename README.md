@@ -137,6 +137,12 @@
 <table align="center">
   <tr>
     <td align="center" width="500">
+      <a href="https://github.com/ASamad73/Voice-AI-Patient-Registration" target="_blank">
+        Voice AI Patient Registration
+      </a>
+      <p>A voice AI agent for patient registration with real-time calls, LLM tool calling, and production-grade testing.</p>
+    </td>
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/CulinaryCloud" target="_blank">
         CulinaryCloud
       </a>
