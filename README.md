@@ -143,13 +143,19 @@
       <p>A voice AI agent for patient registration with real-time calls, LLM tool calling, and production-grade testing.</p>
     </td>
     <td align="center" width="500">
+      <a href="https://github.com/ahmad4376/InterviewPrepApp" target="_blank">
+        AI-powered Interview Prep App
+      </a>
+      <p>An adaptive AI-powered technical interview platform with live coding evaluations, real-time scoring, and voice-driven sessions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="500">
       <a href="https://github.com/ASamad73/CulinaryCloud" target="_blank">
         CulinaryCloud
       </a>
       <p>A MERN-based recipe-sharing platform with social features, filters, and AI-powered recommendations.</p>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="500">
       <a href="https://github.com/ASamad73/Darbaar" target="_blank">
         DARBAAR
