@@ -138,7 +138,7 @@
   <tr>
     <td align="center" width="500">
       <a href="https://github.com/ASamad73/Voice-AI-Patient-Registration" target="_blank">
-        Voice AI Patient Registration
+        Voice AI Patient Registration Agent
       </a>
       <p>A voice AI agent for patient registration with real-time calls, LLM tool calling, and production-grade testing.</p>
     </td>
@@ -148,6 +148,8 @@
       </a>
       <p>A MERN-based recipe-sharing platform with social features, filters, and AI-powered recommendations.</p>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="500">
       <a href="https://github.com/ASamad73/Darbaar" target="_blank">
         DARBAAR
