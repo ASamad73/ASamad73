@@ -10,10 +10,12 @@
 <h>🤝 I’m looking to collaborate on: </h>
 <br/>
 <pre>
-1. Distributed Learning Research 
+1. Distributed Learning Research
 2. Large Language Model Systems
 3. AI-Integrated Web Applications
 4. Efficient Model Optimization
+5. Conversational & Voice AI Agents
+6. Multi-Agent AI Systems
 </pre>
 
 <p>📧 Contact: <a href="mailto:junaid.abdulsamad@gmail.com">junaid.abdulsamad@gmail.com</a></p>
