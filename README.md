@@ -47,7 +47,8 @@
   <img src="https://skillicons.dev/icons?i=js" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=ts" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=html" height="50" style="margin:10px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" style="margin:10px;" />&nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 <div align="center">
@@ -60,13 +61,13 @@
   <img src="https://skillicons.dev/icons?i=express" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=mongodb" height="50" style="margin:10px;" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=aws" height="50" style="margin:10px;" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logoColor=white" alt="Clerk"/>&nbsp;
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>&nbsp;
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary"/>&nbsp;
+  <img src="https://img.shields.io/badge/OracleDB-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OracleDB"/>
 </p>
 
 <div align="center">
@@ -74,6 +75,7 @@
 </div>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch" height="50" style="margin:10px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="50" style="margin:10px;" />&nbsp;
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Transformers"/>&nbsp;
   <img src="https://img.shields.io/badge/PEFT%2FLoRA-4285F4?style=for-the-badge&logoColor=white" alt="PEFT/LoRA"/>&nbsp;
   <img src="https://img.shields.io/badge/CLIP-000000?style=for-the-badge&logoColor=white" alt="CLIP"/>&nbsp;
@@ -81,13 +83,16 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>&nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-F9AB00?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>&nbsp;
+  <img src="https://img.shields.io/badge/Roboflow-11557C?style=for-the-badge&logoColor=white" alt="Roboflow"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>&nbsp;
   <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq"/>&nbsp;
   <img src="https://img.shields.io/badge/Vapi-000000?style=for-the-badge&logoColor=white" alt="Vapi"/>&nbsp;
-  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" alt="ElevenLabs"/>
+  <img src="https://img.shields.io/badge/Deepgram-13EF93?style=for-the-badge&logoColor=black" alt="Deepgram"/>&nbsp;
+  <img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white" alt="ElevenLabs"/>&nbsp;
+  <img src="https://img.shields.io/badge/Piston-FF6B6B?style=for-the-badge&logoColor=white" alt="Piston"/>
 </p>
 
 <div align="center">
@@ -97,11 +102,18 @@
   <img src="https://skillicons.dev/icons?i=git" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=docker" height="50" style="margin:10px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" style="margin:10px;" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=anaconda" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vercel" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=netlify" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=postman" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=figma" height="50" style="margin:10px;" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" height="50" style="margin:10px;" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>&nbsp;
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD"/>&nbsp;
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" alt="SonarQube"/>
 </p>
 <hr>
 
